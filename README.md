@@ -38,8 +38,8 @@ A Streamlit application that tailors your resume based on a specific job descrip
 
 ## Usage
 - Enter your Google Gemini API Key in the .env file.
-- change the user_profile_example.md to match your profile.
+- change user_profile_example.md to match your profile.
 - change resume_template_example.tex to match your template.
-- change the filesnames from resume_template_example.tex to resume_template.tex and user_profile_example.md to user_profile.md
+- change filesnames from resume_template_example.tex to resume_template.tex and user_profile_example.md to user_profile.md
 - Paste the job description.
 - Click "Generate".
